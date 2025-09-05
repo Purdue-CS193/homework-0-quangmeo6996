@@ -1,4 +1,8 @@
+# Minh Quang Nguyen's First CS193 Homework
 ## Welcome to GitHub Pages
+- TAs
+- Github
+- Terminal
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,13 +15,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Minh Quang Nguyen's First CS193 Homework
+# Header 1
 ## Header 2
 ### Header 3
 
-- TAs
-- Github
-- Terminal
+- Bulleted
+- List
+
 
 1. Numbered
 2. List
